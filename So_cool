@@ -1,4 +1,6 @@
 /root
+copy the file school to /tmp
+/root
 rename the file old_school to new_school
 /root
 move the file not_here to /tmp/right_school
